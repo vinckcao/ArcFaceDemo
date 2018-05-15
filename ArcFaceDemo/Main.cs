@@ -19,15 +19,15 @@ namespace FaceRecognization
         /// <summary>
         /// 虹软SDK的AppId
         /// </summary>
-        const string AppId = "BKgqTWQPQQbomfqvyd2VJzTbzo5C4T5w4tzgN3GL6euK";
+        const string AppId = "ARGCDWPZEsiPipsR1WzbyLLjsDrBq3wAjz7mYDFNyrSn";
         /// <summary>
         /// 虹软SDK人脸检测的Key
         /// </summary>
-        const string DKey = "2Yqm2EcsJyBbJjSrirPSNoyQNpaSJz19noCteLQ88SoG";
+        const string DKey = "F9RkYPDoZ7zr8ReeoPZbFZmURZyD9PXPPo3XCWHU3QLQ";
         /// <summary>
         /// 虹软SDK人脸比对的Key
         /// </summary>
-        const string RKey = "2Yqm2EcsJyBbJjSrirPSNoyu2Rd4j1ydfwxwFX9vPmtY";
+        const string RKey = "F9RkYPDoZ7zr8ReeoPZbFZmbayEN1qybS1hF4BUSW3Er";
         /// <summary>
         /// 视频源
         /// </summary>
